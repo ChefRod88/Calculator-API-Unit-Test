@@ -100,3 +100,5 @@ C:\Users\VDI-User\RiderProjects\Calculator\CalculatorTest\obj\Debug\net9.0\refin
 C:\Users\VDI-User\RiderProjects\Calculator\CalculatorTest\obj\Debug\net9.0\CalculatorTest.pdb
 C:\Users\VDI-User\RiderProjects\Calculator\CalculatorTest\obj\Debug\net9.0\CalculatorTest.genruntimeconfig.cache
 C:\Users\VDI-User\RiderProjects\Calculator\CalculatorTest\obj\Debug\net9.0\ref\CalculatorTest.dll
+C:\Users\VDI-User\RiderProjects\Calculator\CalculatorTest\obj\Debug\net9.0\CalculatorTest.sourcelink.json
+C:\Users\VDI-User\RiderProjects\Calculator\CalculatorTest\bin\Debug\net9.0\FluentAssertions.dll

@@ -9,6 +9,7 @@
       "CalculatorTest/1.0.0": {
         "dependencies": {
           "Domain": "1.0.0",
+          "FluentAssertions": "8.0.0-rc.2",
           "Microsoft.NET.Test.Sdk": "17.11.1",
           "coverlet.collector": "6.0.2",
           "xunit": "2.9.2",
@@ -19,6 +20,14 @@
         }
       },
       "coverlet.collector/6.0.2": {},
+      "FluentAssertions/8.0.0-rc.2": {
+        "runtime": {
+          "lib/net6.0/FluentAssertions.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.0.0"
+          }
+        }
+      },
       "Microsoft.CodeCoverage/17.11.1": {
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll": {
@@ -363,6 +372,13 @@
       "sha512": "sha512-bJShQ6uWRTQ100ZeyiMqcFlhP7WJ+bCuabUs885dJiBEzMsJMSFr7BOyeCw4rgvQokteGi5rKQTlkhfQPUXg2A==",
       "path": "coverlet.collector/6.0.2",
       "hashPath": "coverlet.collector.6.0.2.nupkg.sha512"
+    },
+    "FluentAssertions/8.0.0-rc.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Z1D04mOEW8VP3SC38sLarBoGeYoT3hUMK/7zAYMnfxwfHJOuQ/CB7gOP5Y2Tayrr0/DKVlDGrMZOwOi2mAOwKg==",
+      "path": "fluentassertions/8.0.0-rc.2",
+      "hashPath": "fluentassertions.8.0.0-rc.2.nupkg.sha512"
     },
     "Microsoft.CodeCoverage/17.11.1": {
       "type": "package",
